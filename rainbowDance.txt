@@ -1,0 +1,4 @@
+git right
+git left
+jumb up
+knees down
